@@ -1,0 +1,29 @@
+
+#interior{
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+}
+#superior{
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.efectos{
+            box-shadow: 3px 3px 3px #999;
+            border-radius: 15px 15px 15px 15px;
+}
+
+/* Título azul fuerte */
+h1 {
+    color: #004080; /* Azul fuerte */
+}
+
+/* Menú con fondo gris y letras visibles */
+nav {
+    background-color: #444; /* Gris oscuro */
+}
+
+nav ul li a {
+    color: white; /* Letras blancas para que resalten */
+}
